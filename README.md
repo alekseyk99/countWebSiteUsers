@@ -27,5 +27,5 @@ or
 
 ## Page Url
 
-http://localhost:8080/
+http://localhost:8080/users
 
